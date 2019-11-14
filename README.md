@@ -1,2 +1,2 @@
 # samples
-sample audios
+This repo contains samples for successful blackbox attacks
